@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+.encode-sans-semi-expanded-thin {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-extralight {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-light {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-regular {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-medium {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-semibold {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-bold {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-extrabold {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-black {
+  font-family: "Encode Sans Semi Expanded", serif;
+  font-weight: 900;
+  font-style: normal;
+}
